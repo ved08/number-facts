@@ -46,4 +46,7 @@ body {
     .container {
         flex-direction: column;
     }
+    .head {
+        text-align: center;
+    }
 }
